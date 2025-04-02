@@ -24,10 +24,10 @@ venv/
 .vscode/
 
 # Archivos grandes o sensibles
-*.csv
-*.xlsx
-*.zip
-*.bak
+#*.csv
+#*.xlsx
+#*.zip
+#*.bak
 
 
 # Puedes ajustar esto según tu proyecto. Si quieres subir tus datasets .csv, 
